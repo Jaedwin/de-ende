@@ -4,6 +4,7 @@ Hi, this is my project github directory for my physical and tangible hci class. 
 # Instructions
 + The music file `purrple-cat-flourish` was too big, the original version can be found here: https://www.free-stock-music.com/purrple-cat-flourish.html
 + On Windows, open cmd and cd into the source directory, then run: `python listen.py`
++ If you run into issues with listen.py, edit it and change `CAT4` to the correct port you're using
 
 # Sources
 + https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/
