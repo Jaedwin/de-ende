@@ -1,3 +1,5 @@
+![Image of Project](giphy.gif)
+
 # Hello!
 Hi, this is my project github directory for my physical and tangible hci class. To view more about this project please visit: https://jaedwin.github.io/HCI/dnd.html
 
